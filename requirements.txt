@@ -1,0 +1,12 @@
+astropy==7.0.0
+astropy-iers-data==0.2025.1.6.0.33.42
+astropy_healpix==1.0.3
+astroquery==0.4.7
+matplotlib==3.8.3
+matplotlib-inline==0.1.6
+numpy==1.26.0
+PyQt6==6.6.1
+PyQt6-Qt6==6.6.2
+PyQt6-sip==13.6.0
+PyQt6-WebEngine-Qt6==6.5.2
+QtPy==2.4.0
